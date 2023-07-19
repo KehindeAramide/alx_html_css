@@ -1,0 +1,25 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(89, 92, 36);
+    border: 1px solid rgb(255, 0, 195);
+}
+main
+{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+article
+{
+    flex: 2;
+    overflow-y: auto;
+    border: 1px;
+    background-color: antiquewhite;
+}
+aside
+{
+    flex: 1;
+    overflow-y: auto;
+}
