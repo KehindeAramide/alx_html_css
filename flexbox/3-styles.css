@@ -387,8 +387,7 @@
 
   /* Section services */
 
-  .section-services
-  {
+  .section-services {
     flex-wrap: wrap;
   }
   /*** 4. CARD ***/
