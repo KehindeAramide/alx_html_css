@@ -1,0 +1,97 @@
+
+/* OLD CODES */
+.School_page {
+    width: 1440px;
+    height: 3718px;
+    background: #fff;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* #header-menu{
+    width: 1448.15px;
+    height: 1055px;
+    flex-shrink: 0;
+    background: radial-gradient(85.90% 85.90% at 50.0% 14.10%, rgba(41, 48, 61, 0.00) 0%, #071629 100%), #000;
+    background-blend-mode: normal, color;
+} */
+#logo {
+    position: absolute;
+    width: 167.016px;
+    height: 29.461px;
+    color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+/* #menu {
+    margin-top: 0px;
+    
+} */
+
+#menu_items {
+    position: relative;
+    display: flex;
+    height: 0px;
+    justify-content: flex-end;
+    margin-top: 0px;
+    align-items: flex-start;
+    gap: 52px;
+    color: white;
+    flex-shrink: 0;
+}
+/* p {
+    display: inline-flex;
+    height: 15px;
+    justify-content: center;
+} */
+
+#menual {
+    position: relative;
+    display: flex; /* Use flexbox to align items in the navigation */
+    justify-content: flex-end; /* Align items to the right */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* background-color: #333; */
+    padding: 10px;
+    /* margin-right: 100px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    top: 0;
+    right: 0;
+    padding-top: 30px; */
+}
+
+/* #courses {
+    padding-left: 30px;
+}
+Pricing{
+
+}
+Login{
+
+}
+#All-texts{
+
+} */ 
+
+#getschooled {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 400px;
+    width: 167.016px;
+    height: 29.461px;
+    flex-shrink: 0;
+    color: #ffff;
+    top: 0;
+    left: 0;
+    padding-top: 30px;
+}
+#Expression {
+
+}
+
+
