@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey form</title>
+</head>
+<body>
+    <h1>Survey Form</h1>
+    <form action="#" method="POST">
+        <div>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="Name" required>
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input type="email" id="Email" name="Email" required>
+        </div>
+        <div>
+            <label for="Colour">Favorite Colour</label>
+            <select id="Colour" name="Colour" required>
+                <option value="red">Red</option>
+                <option value="blue">Blue</option>
+                <option value="green">Green</option>
+                <option value="" disabled selected>Select Colour</option>
+            </select>
+        </div>
+        <div>
+            <label for="time">Preferred Time:</label>
+            <input type="time" id="time" name="time" required>
+        </div>
+        <div>
+            <label for="date">Preferred Date:</label>
+            <input type="Date" id="date" name="date" required>
+        </div>
+        <div>
+            <button type="submit">Submit Survey</button>
+        </div>
+    </form>
+    
+</body>
+</html>
